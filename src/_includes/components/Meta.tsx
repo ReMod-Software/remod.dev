@@ -10,7 +10,7 @@ export default function Meta(props: Embed) {
 	props.title = props.title ??
 		"ReMod Software | Empowering the next-generation of tools and developers."
 	props.description = props.description ??
-		"ReMod Software is a company formed by hobbyists aimed at supercharging open-source technologies and help make your next big move on the web."
+		"Supercharing and Empowering Visions since 2021."
 	props.url = props.url ?? ROOT
 	props.image = props.image ?? `${ROOT}/assets/meta.png`
 
